@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`WELCOME+-+TO+-+MY+GITHUB+PROFILE`" alt="">
 
 
 <h1 align="center">HI DEAR 👋, I'M SILENTLOVER432</h1>
