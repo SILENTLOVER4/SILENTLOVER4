@@ -1,7 +1,7 @@
 <h1 align="center">HI DEAR 👋, I'M SILENTLOVER432</h1>
 <h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM PAKISTAN♥️</h3>
 
-content://0@com.android.chrome.FileProvider/images/screenshot/17273259117551377597066.gif![image](https://github.com/user-attachments/assets/f8ed6fac-6673-4c5e-b81b-3e86b9d3d593)
+![image](https://github.com/user-attachments/assets/f8ed6fac-6673-4c5e-b81b-3e86b9d3d593)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentlover4&label=Profile%20views&color=0e75b6&style=flat" alt="silentlover4" /> </p>
